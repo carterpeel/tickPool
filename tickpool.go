@@ -1,4 +1,4 @@
-package github.com/carterpeel/tickPool
+package tickpool
 
 import (
 	"sync"
